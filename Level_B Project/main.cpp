@@ -7,7 +7,7 @@
 
 int main() {
 
-	cout << "Level A.\n";
+	cout << "Level B.\n";
 
 	int arr[BUF]{ 1,0,2,-3,1,4,1,0,2,2 };
 
